@@ -1,0 +1,2 @@
+# .github
+Sponsor button etc
